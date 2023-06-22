@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #ED7338;
+    width: auto;
+    height: 5vh;
+}
+
+.navbar {
+    height: 84px;
+}
+
+.top-text {
+    color: white;
+    align-items: center;
+    margin: 0px 80px;
+}
+
+.icoon {
+    margin: 10px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.fbox{
+    width: 50%;
+    padding-top: 30px;
+}
+.sbox{
+    width: 50%;
+    padding: 30px 0 0 50px;
+}
+
+.box {
+    width: 300px;
+    height: 350px;
+    margin-top: 30px;
+    border: 1px  black;
+    box-sizing: border-box;
+    padding: 1px;
+}
+
+.date {
+    font-size: small;
+    padding-bottom: 6px;
+    margin-right: 33px;
+
+}
+
+.time {
+    font-size: small;
+    padding-bottom: 6px;
+    margin-right: 12px;
+
+}
+
+.box1 {
+    width: 47%;
+    height: 45px;
+    border-radius: 5px;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.box2 {
+    width: 47%;
+    height: 45px;
+    border-radius: 5px;
+    background-color: red;
+    cursor: pointer;
+}
+
+.text {
+    color: white;
+    text-align: center;
+
+
+}
+
+.flex1 {
+    display: flex;
+    justify-content: start;
+   
+    flex-wrap: nowrap;
+}
+
+h5 {
+    margin-top: 9px;
+}
+
+Footer {
+    background-color: #302F6A;
+    padding-top: 15px;
+    height: auto;
+}
+
+.text1 {
+    color: white;
+    text-align: center;
+
+}
+
+.Image {
+    align-items: center;
+}
+
+.banner {
+    height: 500px;
+    background-size: 100% 100%;
+    background-image: url("https://oncampus.sjny.edu/wp-content/uploads/2017/12/tips-for-studying.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+.banner1 {
+    height: 400px;
+    background-size: 100% 100%;
+    background-image: url("https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png");
+    background-repeat: no-repeat;
+    opacity: 0.6;
+   
+}
+.ban {
+    color: white;
+    margin-left: 765px;
+    position: relative;
+    top: 105px;
+}
+
+.aa{
+    padding-top: 20px;
+    color: white;
+}
+.img1{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.box3 {
+    width: 329px;
+    height: auto;
+    margin-top: 30px;
+    border: 1px solid black; 
+    box-sizing: border-box;
+}
+ul {
+    list-style-type: none;
+  }
+  .form1{
+    max-width: 65%;
+  
+  }
+  .form2{
+    max-width: 34%;
+ 
+  }
+  .box5 {
+    padding: 2px 0;
+    margin: 20px 0 20px 70px;
+    align-items: center;
+    width: 60%;
+    height: 45px;
+    border-radius: 5px;
+    background-color: blue;
+    cursor: pointer;
+}
